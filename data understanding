@@ -1,0 +1,30 @@
+DATA MANIPULATION USE CASE
+
+TYPICAL DATA MANIPULATION STEPS(Operations on Data Frame)
+Sub Setting Data or Filtering Data or Slicing Data
+Using [] brackets
+Using indexing or referring with column names/rows
+Using functions
+Mutation of table (Adding/deleting columns) 
+Binning data (Binning numerical variables in to categorical variables using cut() and qcut() functions)
+Dropping rows & columns
+Renaming columns or rows
+Sorting 
+by data/values, index
+By one column or multiple columns
+Ascending or Descending
+Type conversions
+Setting index 
+Applying functions to all the variables in a data frame (broadcasting)
+Handling missing values – detect, filter, replace
+Handling duplicates
+Handling outliers 
+Creating dummies from categorical data (using get_dummies())
+Table manipulation (One table and multiple tables)-
+Aggregation – Group by processing
+Merge/ Join (left, right, outer, inner)
+Concatenate (appending) – Binding or stacking or union all
+Reshaping & Pivoting data – stack/unstack, pivot table, summarizations
+Standardize the variables
+Random Sampling (with replacement/with out replacement)
+Handling Time Series Data
